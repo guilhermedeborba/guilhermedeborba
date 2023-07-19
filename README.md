@@ -1,6 +1,6 @@
 ## Hi, I'm Guilherme Borba
 
-> I'm Guilherme Borba, a developer with a passion for technology and product development. With 6+ years of experience, I specialize in full-stack development and enjoy tackling challenging projects. I have had the opportunity to work on various web applications and contribute to their success.
+I'm a developer with a passion for technology and product development. With 6+ years of experience, I specialize in full-stack development and enjoy tackling challenging projects. I have had the opportunity to work on various web applications and contribute to their success.
 
 
 ## 🚀  Skills
